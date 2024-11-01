@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "YioZlHjpk3C9O0coZ2O99YB89KDUuUT3TwSj5CdwEVQ=",
+  "Source": "HelloWorld",
+  "BasePath": "_content/HelloWorld",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelloWorld\\wwwroot",
+      "Source": "HelloWorld",
+      "ContentRoot": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\css\\styles.css",
+      "SourceId": "HelloWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\js\\animation.js",
+      "SourceId": "HelloWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "RelativePath": "js/animation.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\animation.js"
+    },
+    {
+      "Identity": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\js\\animations.js",
+      "SourceId": "HelloWorld",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\avant\\Documents\\GitHub\\MyGitHub\\hello-world\\src\\HelloWorld\\wwwroot\\",
+      "BasePath": "_content/HelloWorld",
+      "RelativePath": "js/animations.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\animations.js"
+    }
+  ]
+}
