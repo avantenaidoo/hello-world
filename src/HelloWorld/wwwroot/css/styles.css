@@ -1,0 +1,54 @@
+#character-animation {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation: moveCharacter 5s infinite;
+}
+
+@keyframes moveCharacter {
+    0% { left: 0; top: 0; }
+    25% { left: 200px; top: 0; }
+    50% { left: 200px; top: 200px; }
+    75% { left: 0; top: 200px; }
+    100% { left: 0; top: 0; }
+}
+
+body {
+    background-color: #e0f7fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #00796b;
+}
+
+p {
+    color: #004d40;
+}
+
+.scuba-diving-theme {
+    background-image: url('../images/scuba-diving-background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#scuba-diving-animation {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    animation: swim 10s infinite;
+}
+
+@keyframes swim {
+    0% { left: 0; top: 0; }
+    25% { left: 300px; top: 0; }
+    50% { left: 300px; top: 300px; }
+    75% { left: 0; top: 300px; }
+    100% { left: 0; top: 0; }
+}
