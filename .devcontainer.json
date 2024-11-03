@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "code . -r && code --task build",
+    "test": "cat .vscode/tasks.json"
+  }
+}
